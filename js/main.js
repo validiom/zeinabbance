@@ -36,7 +36,7 @@
       * Home Screen Counter
       */
      counter: function() {
-     $('.countdown').countdown({ date: "December 22, 2024 23:59:59" });
+     $('.countdown').countdown({ date: "December 22, 2024 20:00:00" });
      },
  
  
